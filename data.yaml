@@ -1,0 +1,4 @@
+train: face_mask/train
+val: face_mask/valid
+nc: 2
+names: ['NoMask', 'Mask']
